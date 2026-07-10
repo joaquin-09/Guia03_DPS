@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import ProfileCard from "../components/ProfileCard";
+import ProfileCard from "../components/ProductList";
 
 interface ProfileProps {
   nombre: string; rol: string; tecnologias: string[];
